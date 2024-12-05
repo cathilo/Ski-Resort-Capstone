@@ -33,7 +33,16 @@ Conversely, closing 10 ski runs would result in a $1.75 price decrease, highligh
 
 Competitor Analysis:
 Big Mountain excels in the key features identified as price drivers—fast quads, runs, snow-making area, and vertical drop—relative to competitors. However, its pricing strategy has not fully capitalized on this competitive advantage.
-Model Selection and Validation
+
+![snow area](https://github.com/cathilo/Ski-Resort-Capstone/blob/master/Snowarea.png?raw=true)
+
+![quads](https://github.com/cathilo/Ski-Resort-Capstone/blob/master/FastQuads.png?raw=true)
+
+![runs](https://github.com/cathilo/Ski-Resort-Capstone/blob/master/runs.png?raw=true)
+
+![drops](https://github.com/cathilo/Ski-Resort-Capstone/blob/master/verticaldrops.png?raw=true)
+
+Model Selection and Validation:
 
 
 We developed and validated multiple models to ensure robust pricing recommendations:
