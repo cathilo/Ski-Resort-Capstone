@@ -21,7 +21,7 @@ Model Performance:
 The mean absolute error (MAE) of the random forest model is $10.39, indicating that price predictions are typically within $10.39 of the true value based on facilities.
 The model demonstrates improved accuracy and consistency compared to a linear regression approach, which had a higher MAE of approximately $11.79.
 Random forest modeling also revealed that fast quads, number of runs, snow-making acreage, and vertical drop are the most critical features influencing ticket price.
-
+ 
 Current Pricing Misalignment:
 Despite its competitive facilities, Big Mountain’s current ticket price of $81.00 significantly undercuts its modeled value. This discrepancy suggests a missed opportunity to align pricing with customer willingness to pay.
 
