@@ -5,7 +5,8 @@ Big Mountain Resort’s current business strategy is pricing tickets at a premiu
 
 
 
-Big Mountain Ticket Pricing Strategy Proposal
+Big Mountain Ticket Pricing Strategy Proposal:
+
 By the end of this ski season, we aim to implement a data-driven pricing strategy tailored to Big Mountain’s market segment and competitive positioning based on other ski resorts in the US. This strategy seeks to boost revenue by at least $1.5 million by the end of the next ski season. Using a random forest model, we have determined the optimal Adult Weekend ticket price by analyzing Big Mountain’s facilities alongside the pricing and amenities of competitors.
 
 In the "Notebooks" folder contain the data wrangling, eda, preprocessing and training and modeling complete with comments of our findings for each step of the process.
