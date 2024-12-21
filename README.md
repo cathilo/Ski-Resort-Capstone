@@ -66,5 +66,5 @@ Strategic Facility Investments:
 Before implementing facility changes, we recommend evaluating associated costs, such as snow machine maintenance and construction expenses, to ensure profitability aligns with pricing strategy.
 
 
-Conclusion
+Conclusion:
 Big Mountain is underpricing its Adult Weekend tickets relative to its facilities and market position. By adopting the recommended price of $96.75 and considering facility improvements, the resort can both enhance its value proposition and achieve the target revenue increase of $1.5 million. Moving forward, the pricing model can serve as a decision-making tool to optimize the balance between facility investments and ticket pricing for sustained profitability.
