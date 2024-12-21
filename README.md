@@ -1,4 +1,4 @@
-# Ski Resort Capstone
+# Ski Resort Capstone 2024
 
 
 Big Mountain Resort’s current business strategy is pricing tickets at a premium above the average market price and needs a data driven way to select price on tickets to increase revenue and profit. Big Mountain wants to capitalize on its facilities and does not currently know which are value-driving. (11 lifts, 2 T-bars, and 1 magic carpet for novice skiers). The Resort is also considering activities to reduce costs without undermining ticket price or support higher ticket price. There is $1.54 million in added operating costs this season due to an additional chair lift so that will affect profit margins unless we increase revenue by $1.54 million.
